@@ -62,7 +62,7 @@ Cabe recalcar que fui uno de los miembros fundadores del proyecto **KHSpanishMix
 
 Por motivos personales y de salud mental, tuve que alejarme de las redes sociales, alejarme del grupo y delegar la responsabilidad del proyecto en Ecos del Doblaje.
 
-Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació como un reto divertido y quiero que siga siendo así. No busco comparar con productos oficiales, ni entrar en competiciones con creadores de contenido sobre quién tiene más visibilidad.
+Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació como un reto divertido y quiero que siga siendo así. No busco crear comparaciones con productos oficiales, ni entrar en competiciones con creadores de contenido sobre quién tiene más visibilidad.
 
 ---
 
