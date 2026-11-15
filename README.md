@@ -46,7 +46,7 @@ El objetivo de este proyecto es completar la experiencia de juego en castellano,
 | PlayStation 4 | 1.5 + 2.5 ReMIX | Sí |
 | PlayStation 5 | Integrum Masterpiece | Sí |
 | Nintendo Switch | En la nube | No (servidores cerrados) |
-| Nintendo Switch 2 | I-III | No (Todavía) |
+| Nintendo Switch 2 | I-III | No (todavía) |
 
 *La viabilidad de cada port dependerá de sus posibilidades técnicas y el progreso en la scene.*
 
