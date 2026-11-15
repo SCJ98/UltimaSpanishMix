@@ -37,18 +37,18 @@ El objetivo de este proyecto es completar la experiencia de juego en castellano,
 
 ---
 
-## 🎮 PORTS A OTRAS PLATAFORMAS
+## 🎮 PORTS A OTRAS PLATAFORMAS DE KH: FM
 
-| Plataforma | Versión | Estado |
+| Plataforma | Versión | ¿Es viable? |
 |---|---|---|
-| PlayStation 2 | Final Mix | 0% |
-| PlayStation 3 | 1.5 HD ReMIX | 0% |
-| PlayStation 4 | 1.5 + 2.5 ReMIX | 0% |
-| PlayStation 5 | Integrum Masterpiece | 0% |
-| Nintendo Switch | Versión en la nube | Inviable |
-| Nintendo Switch 2 | Por confirmar | Pendiente |
+| PlayStation 2 | Final Mix (JP) | Sí |
+| PlayStation 3 | 1.5 HD ReMIX | Sí |
+| PlayStation 4 | 1.5 + 2.5 ReMIX | Sí |
+| PlayStation 5 | Integrum Masterpiece | Sí |
+| Nintendo Switch | En la nube | No (servidores cerrados) |
+| Nintendo Switch 2 | I-III | No (Todavía) |
 
-*La viabilidad de cada port dependerá de las posibilidades técnicas de cada versión y plataforma.*
+*La viabilidad de cada port dependerá de sus posibilidades técnicas y el progreso en la scene.*
 
 ---
 
@@ -73,8 +73,6 @@ Mi agradecimiento a todas las personas que conocí y que han hecho posible el pr
 Gracias también a las personas que habéis creado tutoriales para aquellos con menos conocimientos sobre instalar mods. ¡Vosotros también sois unos héroes!
 
 Como no, gracias también a los jugadores que ya han podido probarlo. Y sí todavía no lo habéis hecho, os invito a hacerlo.
-
-Y por último, pero no menos importante, a los hijos de puta envidiosos que fabricaron bulos sobre mí e intentaron poner a gente en mi contra por, supuestamente, "utilizar IA generativa". A todos ellos: iros a tomar por el culo. ^^
 
 ---
 
