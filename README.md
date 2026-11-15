@@ -1,8 +1,8 @@
-# UltimaSpanishMix
+# SpanishMixPS2
 
-**Traducción y doblaje al castellano de Kingdom Hearts: Final Mix**, con correcciones y adaptaciones del trabajo original de [Ecos Del Doblaje](https://www.nexusmods.com/kingdomheartsfinalmix/mods/187), así como ports para otras plataformas.
+**Traducción y doblaje al castellano de Kingdom Hearts: Final Mix**, con correcciones y adaptaciones del trabajo original de [Ecos Del Doblaje](https://www.nexusmods.com/kingdomheartsfinalmix/mods/187) para PS2.
 
-El objetivo de este proyecto es completar la experiencia de juego en castellano, respetando el trabajo realizado anteriormente y ampliando su compatibilidad con diferentes versiones del juego.
+El objetivo de este proyecto es completar la experiencia de juego en castellano, respetando el trabajo realizado anteriormente y ampliando su compatibilidad para PlayStation 2.
 
 ---
 
@@ -37,43 +37,36 @@ El objetivo de este proyecto es completar la experiencia de juego en castellano,
 
 ---
 
-## 🎮 POSIBILIDAD DE PORTEAR KH: FM
-
-| Plataforma | Versión | ¿Es viable? |
-|---|---|---|
-| PlayStation 2 | Final Mix (JP) | Sí |
-| PlayStation 3 | 1.5 HD ReMIX | Sí |
-| PlayStation 4 | 1.5 + 2.5 ReMIX | Sí |
-| PlayStation 5 | Integrum Masterpiece | Sí |
-| Nintendo Switch | En la nube | No (servidores cerrados) |
-| Nintendo Switch 2 | I-III | No (todavía) |
-
-*La viabilidad de cada port dependerá de sus posibilidades técnicas y el progreso en la scene.*
-
----
-
 ## ℹ️ SOBRE EL PROYECTO
 
 Este proyecto no pretende apropiarse ni plagiar en modo alguno el trabajo realizado por **Ecos del Doblaje**.
 
-UltimaSpanishMix nace con la intención de dar continuidad a parte de ese trabajo, realizando correcciones, adaptaciones a otras plataformas y completando algunos detalles pendientes, como la adaptación de los subtítulos al doblaje.
+SpanishMixPS2 nace con la intención de continuarlo. Cabe recalcar que fui uno de los miembros fundadores del proyecto **KHSpanishMix++ (Santos Castillo, antes PlasmaWAV)**, que comenzó hace aproximadamente a finales de 2024, y que por motivos personales y de salud mental, tuve que alejarme de las redes sociales, y delegar la responsabilidad del proyecto en Ecos del Doblaje.
 
-Cabe recalcar que fui uno de los miembros fundadores del proyecto **KHSpanishMix++ (Santos Castillo, antes PlasmaWAV)**, que comenzó hace aproximadamente dos años.
-
-Por motivos personales y de salud mental, tuve que alejarme de las redes sociales, alejarme del grupo y delegar la responsabilidad del proyecto en Ecos del Doblaje.
-
-Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació como un reto divertido y quiero que siga siendo así. No busco crear comparaciones con los productos oficiales, ni entrar en competiciones con otros creadores de contenido para ver quién tiene más visibilidad.
+Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació como un reto divertido y quiero que siga siendo así. No busco crear comparaciones con los productos oficiales, ni entrar en competiciones absurdas que no llegan a ninguna parte con otros creadores de contenido.
 
 ---
 ## (TODAVÍA EN CONSTRUCCIÓN)
 
 ## ❤️ AGRADECIMIENTOS
 
-Mi agradecimiento a todas las personas que conocí y que han hecho posible el proyecto original. Los que han contribuido, de una forma u otra, a que este trabajo haya tomado forma.
+Mi agradecimiento a todas las personas que he conocido en mi vida y que han hecho posible el proyecto original. Los que han contribuido, de una forma u otra, a que esta idea haya tomado forma.
 
-Gracias también a las personas que habéis creado tutoriales para aquellos con menos conocimientos sobre instalar mods. ¡Vosotros también sois unos héroes!
+Gracias también a las personas que habéis creado tutoriales y os habéis tomado molestias para aquellos con menos conocimientos sobre cómo instalar mods.
 
-Como no, gracias también a los jugadores que ya han podido probarlo. Y sí todavía no lo habéis hecho, os invito a hacerlo.
+Y como no, gracias también a los fans y a los jugadores que ya han podido probarlo. Y sí todavía no lo habéis hecho, os invito a probarlo y dar vuestras opiniones.
+
+¡GRACIAS!
+
+## CON LA AYUDA DE:
+
+-Mi familia, en especial, mis padres y mi hermana.
+
+-Mis amigos. Sobretodo, una persona muy especial que siempre se ha preocupado por mí, rompió mi coraza y me dio fuerzas cuando más las necesitaba.
+
+-El maravilloso equipo de Ecos del Doblaje.
+
+-Parche de traducción al inglés de KHFM.
 
 ---
 
