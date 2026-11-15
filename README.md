@@ -65,6 +65,7 @@ Por motivos personales y de salud mental, tuve que alejarme de las redes sociale
 Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació como un reto divertido y quiero que siga siendo así. No busco crear comparaciones con los productos oficiales, ni entrar en competiciones con otros creadores de contenido para ver quién tiene más visibilidad.
 
 ---
+## (TODAVÍA EN CONSTRUCCIÓN)
 
 ## ❤️ AGRADECIMIENTOS
 
