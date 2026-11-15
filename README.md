@@ -60,7 +60,7 @@ UltimaSpanishMix nace con la intención de dar continuidad a parte de ese trabaj
 
 Cabe recalcar que fui uno de los miembros fundadores del proyecto **KHSpanishMix++ (Santos Castillo, antes PlasmaWAV)**, que comenzó hace aproximadamente dos años.
 
-Por motivos personales y de salud mental, tuve que alejarme de las redes sociales, despedirme del grupo y delegar la responsabilidad del proyecto en Ecos del Doblaje.
+Por motivos personales y de salud mental, tuve que alejarme de las redes sociales, alejarme del grupo y delegar la responsabilidad del proyecto en Ecos del Doblaje.
 
 Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació de una afición personal y quiero que siga siendo así.
 
