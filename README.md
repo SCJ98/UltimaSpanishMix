@@ -37,7 +37,7 @@ El objetivo de este proyecto es completar la experiencia de juego en castellano,
 
 ---
 
-## 🎮 PORTS A OTRAS PLATAFORMAS DE KH: FM
+## 🎮 POSIBILIDAD DE PORTEAR KH: FM
 
 | Plataforma | Versión | ¿Es viable? |
 |---|---|---|
