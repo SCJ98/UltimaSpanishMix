@@ -1,8 +1,8 @@
-# SpanishMixPS2
+# SpanishMixPS3
 
-**Traducción y doblaje al castellano de Kingdom Hearts: Final Mix**, con correcciones y adaptaciones del trabajo original de [Ecos Del Doblaje](https://www.nexusmods.com/kingdomheartsfinalmix/mods/187) para PS2.
+**Traducción y doblaje al castellano de Kingdom Hearts: Final Mix**, con correcciones y adaptaciones del trabajo original de [Ecos Del Doblaje](https://www.nexusmods.com/kingdomheartsfinalmix/mods/187) para PS3.
 
-El objetivo de este proyecto es completar la experiencia de juego en castellano, respetando el trabajo realizado anteriormente y ampliando su compatibilidad para PlayStation 2.
+El objetivo de este proyecto es completar la experiencia de juego en castellano, respetando el trabajo realizado anteriormente y ampliando su compatibilidad para PlayStation 3.
 
 ---
 
@@ -41,12 +41,13 @@ El objetivo de este proyecto es completar la experiencia de juego en castellano,
 
 Este proyecto no pretende apropiarse ni plagiar en modo alguno el trabajo realizado por **Ecos del Doblaje**.
 
-SpanishMixPS2 nace con la intención de continuarlo. Cabe recalcar que fui uno de los miembros fundadores del proyecto **KHSpanishMix++ (Santos Castillo, antes PlasmaWAV)**, que comenzó hace aproximadamente a finales de 2024, y que por motivos personales y de salud mental, tuve que alejarme de las redes sociales, y delegar la responsabilidad del proyecto en Ecos del Doblaje.
+SpanishMixPS3 nace con la intención de continuarlo. Cabe recalcar que fui uno de los miembros fundadores del proyecto **KHSpanishMix++ (Santos Castillo, antes PlasmaWAV)**, que comenzó hace aproximadamente a finales de 2024, y que por motivos personales y de salud mental, tuve que alejarme de las redes sociales, y delegar la responsabilidad del proyecto en Ecos del Doblaje.
 
 Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació como un reto divertido y quiero que siga siendo así. No busco crear comparaciones con los productos oficiales, ni entrar en competiciones absurdas que no llegan a ninguna parte con otros creadores de contenido.
 
 ---
-## (TODAVÍA EN CONSTRUCCIÓN)
+## ACLARACIÓN
+No proporcionaré copias del juego. Este es un proyecto del que no pretendo sacar un céntimo. Si alguien intenta venderos el juego con voces en español, de manera directa o indirecta mediante promociones o descuentos oportunistas, desconfía y descárgatela de Internet.
 
 ## ❤️ AGRADECIMIENTOS
 
@@ -65,8 +66,6 @@ Y como no, gracias también a los fans y a los jugadores que ya han podido proba
 -Mis amigos. Sobretodo, una persona muy especial que siempre se ha preocupado por mí, rompió mi coraza y me dio fuerzas cuando más las necesitaba.
 
 -El maravilloso equipo de Ecos del Doblaje.
-
--Parche de traducción al inglés de KHFM.
 
 ---
 
