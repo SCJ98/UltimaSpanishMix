@@ -47,7 +47,9 @@ Ahora quiero retomar y finalizar aquel trabajo. Este proyecto nació como un ret
 
 ---
 ## ACLARACIÓN
-No proporcionaré copias del juego. Este es un proyecto del que no pretendo sacar un céntimo. Si alguien intenta venderos el juego con voces en español, de manera directa o indirecta mediante promociones o descuentos oportunistas, desconfía y descárgatela de Internet.
+No proporcionaré copias ni haré sorteos del juego. Este es un proyecto del que no pretendo sacar un céntimo. Si un tercero, ajeno a Square Enix o Disney, os ofrece el juego con voces en español, de manera directa o indirecta mediante promociones o descuentos oportunistas, desconfíad.
+
+Y si no os queda de otra, pues bueno... Supongo que al menos sabréis usar Google. (guiño, guiño)
 
 ## ❤️ AGRADECIMIENTOS
 
